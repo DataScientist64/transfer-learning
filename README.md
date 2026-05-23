@@ -16,6 +16,9 @@ medical image classification, and manufacturing quality control.
 | Model              | Accuracy |
 |--------------------|----------|
 | Test Accuracy  | 87%      |
+| Loss | 45%     |
+| val_loss | 51%     |
+| val_accuracy | 84%    |
 
 Transfer learning allowed strong performance despite a limited 
 training dataset — demonstrating the practical value of pre-trained 
